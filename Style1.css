@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@500&family=Poppins:wght@300;500&display=swap');
+
+* {
+    text-align: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    font-family: 'AR One Sans', sans-serif;
+}
+
+.yr-btn{
+    width: 200px;
+    height: 50px;
+    margin: 10px;
+    background: #cccccd;
+    border-radius: 10px;
+    font-size: 25px;
+    cursor: pointer;
+    box-shadow: 0px 3px 15px rgba(113, 115, 119, 0.5);
+    color: rgb(0, 0, 0);
+}
+
+.yr-btn:hover{
+   background-color: chartreuse;
+}
+
+.btn {
+
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+   
+}
+
+.beu{
+ background-color: orange;
+}
+
+.hdr-1{
+    color: rgb(255, 98, 36);
+}
+
+a{
+    text-decoration: none;
+    margin: 2px;
+}
